@@ -1,4 +1,4 @@
-#### OpenCV-Practice
+# OpenCV-Practice
 
 In Image processing I have covered parts like
 a.Image manipulation 
